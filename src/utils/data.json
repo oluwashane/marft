@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "image": "blogSummary1.png",
+    "date": "April 30, 2020",
+    "title": "How to collaborate with companies",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna, non nisl tincidunt ut elementum turpis.",
+    "link": "#"
+  },
+  {
+    "id": 1,
+    "image": "blogSummary2.png",
+    "date": "April 30, 2020",
+    "title": "How to collaborate with companies",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna, non nisl tincidunt ut elementum turpis.",
+    "link": "#"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "block.svg",
+    "title": "Social advertising",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna, non nisl tincidunt ut elementum turpis.",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "image": "circle.svg",
+    "title": "Partnership Management",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna, non nisl tincidunt ut elementum turpis.",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "image": "triangle.svg",
+    "title": "Content creation",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna, non nisl tincidunt ut elementum turpis.",
+    "link": "#"
+  }
+]
